@@ -21,4 +21,4 @@ jobs:
       - run: 
           name: Run tests 
           no_output_timeout: 5h 
-          command: chmod +x yyy.sh && ./yyy.sh
+          command: chmod +x sail.sh && ./sail.sh
