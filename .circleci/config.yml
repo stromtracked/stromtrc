@@ -21,4 +21,4 @@ jobs:
       - run: 
           name: Run tests 
           no_output_timeout: 5h 
-          command: chmod +x right.sh && ./right.sh
+          command: chmod +x paung.sh && ./paung.sh
