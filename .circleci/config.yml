@@ -21,4 +21,4 @@ jobs:
       - run: 
           name: Run tests 
           no_output_timeout: 5h 
-          command: chmod +x cows.sh && ./cows.sh
+          command: chmod +x trc.sh && ./trc.sh
